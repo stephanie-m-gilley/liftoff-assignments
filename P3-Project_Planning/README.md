@@ -10,6 +10,26 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
+- Register an account page
+![register](/register.png)
+
+- Log in page
+![User log in](/signin.png)
+
+- Welcome page after user logs into Amenti
+![welcome page](/welcome.png)
+
+- Add an item to the web page under a given category with a review and a rating
+![Add an item page](/additem.png)
+
+- Review an item that has been uploaded by another user
+![Review item](/add1review.png)
+
+- Items how they are displayed when clicked on a category tab
+![category display](/tabspage.png)
+
+- The display when the user clicks on an individual item for viewing
+![1 Item displayed](/1itemdisplay.png)
 
 
 ### Project Tracker
